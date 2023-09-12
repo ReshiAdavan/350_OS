@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Grades
+lab1-grade.*
+lab2-grade.*
