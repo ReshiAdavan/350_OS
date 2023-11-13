@@ -7,8 +7,8 @@ Please contact me if you want learn more about the OS and/or want to see the cod
 
 ### Topics
 
-- Languages: C
-- Concepts:
+- **Languages**: C
+- [**Concepts**](#underline):
   - **Techniques**: Memory Management, Task Scheduling, Inter-Process Communication & Input/Output
   - **Algorithms**: First Fit Memory Based Allocation, Priority Based Scheduling, 
   - **Other**: DE1-SoC, RTX
